@@ -1,0 +1,192 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oxford SIAM Student Chapter//JAMS//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:JAMS – Junior Applied Mathematics Seminar
+X-WR-CALDESC:Junior Applied Mathematics Seminar\, Mathematical Institute\, 
+ University of Oxford
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:jams-74306@siamsc.maths.ox.ac.uk
+DTSTAMP:20251118T123000Z
+DTSTART:20251118T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: Adhesion-driven patterning in collective cell behaviour – C
+ arles Falco
+DESCRIPTION:Speaker: Carles Falco (WCMB)\nDetails: https://www.maths.ox.ac.
+ uk/node/74306
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/74306
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-74307@siamsc.maths.ox.ac.uk
+DTSTAMP:20251202T123000Z
+DTSTART:20251202T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: Injection-driven Spreading of a Surfactant-laden Droplet on a
+  Pre-wetted Substrate – William Gillow
+DESCRIPTION:Speaker: William Gillow (OCIAM)\nDetails: https://www.maths.ox.
+ ac.uk/node/74307
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/74307
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-74656@siamsc.maths.ox.ac.uk
+DTSTAMP:20260127T123000Z
+DTSTART:20260127T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: Electrostatic regulation of biomolecular condensates. – Jas
+ per Knox
+DESCRIPTION:Speaker: Jasper Knox (Dept of Engineering Maths University of B
+ ristol)\nDetails: https://www.maths.ox.ac.uk/node/74656
+LOCATION:C3\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/74656
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-79958@siamsc.maths.ox.ac.uk
+DTSTAMP:20260210T123000Z
+DTSTART:20260210T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: Models for subglacial floods during surface lake drainage eve
+ nts – Harry Stuart
+DESCRIPTION:Speaker: Harry Stuart (OCIAM Oxford)\nDetails: https://www.math
+ s.ox.ac.uk/node/79958
+LOCATION:C4\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/79958
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-74655@siamsc.maths.ox.ac.uk
+DTSTAMP:20260224T123000Z
+DTSTART:20260224T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: The flow-induced compaction of visco-elastic and visco-plasti
+ c soft porous media – Emma Bouckley
+DESCRIPTION:Speaker: Emma Bouckley (Theoretical Geophysics\, Cambridge)\nDe
+ tails: https://www.maths.ox.ac.uk/node/74655
+LOCATION:C4\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/74655
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-79960@siamsc.maths.ox.ac.uk
+DTSTAMP:20260310T123000Z
+DTSTART:20260310T123000Z
+DURATION:PT30M
+SUMMARY:JAMS: Quantifying Spatial Relationships in Labelled Data with Topol
+ ogy – Abhinav Natarajan
+DESCRIPTION:Speaker: Abhinav Natarajan (OCIAM Oxford)\nDetails: https://www
+ .maths.ox.ac.uk/node/79960
+LOCATION:C4\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/79960
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-81045@siamsc.maths.ox.ac.uk
+DTSTAMP:20260505T113000Z
+DTSTART:20260505T113000Z
+DURATION:PT30M
+SUMMARY:JAMS: A multiscale discrete-to-continuum framework for structured p
+ opulation models – Eleonora Agostinelli
+DESCRIPTION:Speaker: Eleonora Agostinelli (Wolfson Centre for Mathematical 
+ Biology)\nDetails: https://www.maths.ox.ac.uk/node/81045
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/81045
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-81182@siamsc.maths.ox.ac.uk
+DTSTAMP:20260512T133000Z
+DTSTART:20260512T133000Z
+DURATION:PT30M
+SUMMARY:JAMS: Try a Policy Internship and Apply Your Maths from Marine Mamm
+ als to Much More – Jun Jewell
+DESCRIPTION:Speaker: Jun Jewell (WCMB)\nDetails: https://www.maths.ox.ac.uk
+ /node/81182
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/81182
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-81064@siamsc.maths.ox.ac.uk
+DTSTAMP:20260519T113000Z
+DTSTART:20260519T113000Z
+DURATION:PT30M
+SUMMARY:JAMS: Fluid mechanics and irreversible thermodynamics of lithium-io
+ n battery electrolytes – Aaron Baier-Reinio
+DESCRIPTION:Speaker: Aaron Baier-Reinio (Numerical Analysis)\nDetails: http
+ s://www.maths.ox.ac.uk/node/81064
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/81064
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-81079@siamsc.maths.ox.ac.uk
+DTSTAMP:20260602T113000Z
+DTSTART:20260602T113000Z
+DURATION:PT30M
+SUMMARY:JAMS: Beyond Snap-Fit: the Lifting Capabilities of a Partial Cylind
+ rical Shell – Grace Curtis
+DESCRIPTION:Speaker: Grace Curtis (OCIAM\, Oxford)\nDetails: https://www.ma
+ ths.ox.ac.uk/node/81079
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/81079
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-81048@siamsc.maths.ox.ac.uk
+DTSTAMP:20260616T113000Z
+DTSTART:20260616T113000Z
+DURATION:PT30M
+SUMMARY:JAMS: A spatially adaptive hybrid model in reaction diffusion syste
+ ms – Charlie Cameron
+DESCRIPTION:Speaker: Charlie Cameron (University of Bath)\nDetails: https:/
+ /www.maths.ox.ac.uk/node/81048
+LOCATION:C2\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/81048
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-83067@siamsc.maths.ox.ac.uk
+DTSTAMP:20261020T113000Z
+DTSTART:20261020T113000Z
+DTEND:20261020T120000Z
+SUMMARY:JAMS: Solving a sequence of eigenvalue problems using snapshot and 
+ row subsampling – Francesco Hrobat
+DESCRIPTION:Speaker: Francesco Hrobat (Mathematical Institute\, University 
+ of Oxford)\nDetails: https://www.maths.ox.ac.uk/node/83067\nSlides: https:
+ //fhrobat.github.io/jams_talk
+LOCATION:L5\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/83067
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-83068@siamsc.maths.ox.ac.uk
+DTSTAMP:20261103T123000Z
+DTSTART:20261103T123000Z
+DTEND:20261103T130000Z
+SUMMARY:JAMS: Modelling the loss of cell cycle synchrony in embryo developm
+ ent – Ben Stephens
+DESCRIPTION:Speaker: Ben Stephens (Mathematical Institute\, University of O
+ xford)\nDetails: https://www.maths.ox.ac.uk/node/83068
+LOCATION:C3\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/83068
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-82762@siamsc.maths.ox.ac.uk
+DTSTAMP:20261117T123000Z
+DTSTART:20261117T123000Z
+DTEND:20261117T130000Z
+SUMMARY:JAMS: Modelling brain clearance across scales – Lucie Wintrová
+DESCRIPTION:Speaker: Lucie Wintrová (Faculty of Mathematics and Physics Ch
+ arles University Prague)\nDetails: https://www.maths.ox.ac.uk/node/82762
+LOCATION:C3\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/82762
+END:VEVENT
+BEGIN:VEVENT
+UID:jams-83069@siamsc.maths.ox.ac.uk
+DTSTAMP:20261201T123000Z
+DTSTART:20261201T123000Z
+DTEND:20261201T130000Z
+SUMMARY:JAMS: Experimentally informed Modelling of Graphite Hysteresis for 
+ Lithium Ion Batteries – Emmanuelle Hagopian
+DESCRIPTION:Speaker: Emmanuelle Hagopian (Department of Engineering Science
+ \, University of Oxford)\nDetails: https://www.maths.ox.ac.uk/node/83069
+LOCATION:C3\, Mathematical Institute\, University of Oxford
+URL:https://www.maths.ox.ac.uk/node/83069
+END:VEVENT
+END:VCALENDAR

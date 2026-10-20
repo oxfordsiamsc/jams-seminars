@@ -94,7 +94,64 @@ def main():
         "slides": talks_with_slides,
     }
     (ROOT / "seminars.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    calendar = sorted(out["upcoming"] + out["past"], key=lambda e: e["start"])
+    (ROOT / "jams.ics").write_bytes(ics(calendar).encode("utf-8"))
     print(f"{len(out['upcoming'])} upcoming, {len(past)} past, {len(talks_with_slides)} with slides")
+
+
+def ics_escape(s):
+    return s.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def fold(line):
+    """Fold a content line at 75 octets, as RFC 5545 requires."""
+    data, parts = line.encode("utf-8"), []
+    while len(data) > 75:
+        cut = 75 if not parts else 74
+        while (data[cut] & 0xC0) == 0x80:  # don't split a UTF-8 character
+            cut -= 1
+        parts.append(data[:cut].decode("utf-8"))
+        data = data[cut:]
+    parts.append(data.decode("utf-8"))
+    return "\r\n ".join(parts)
+
+
+def ics(events):
+    def stamp(iso):
+        return iso.replace("-", "").replace(":", "")
+
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//Oxford SIAM Student Chapter//JAMS//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:JAMS – Junior Applied Mathematics Seminar",
+        "X-WR-CALDESC:Junior Applied Mathematics Seminar\\, Mathematical Institute\\, University of Oxford",
+        "X-WR-TIMEZONE:Europe/London",
+        "REFRESH-INTERVAL;VALUE=DURATION:PT12H",
+        "X-PUBLISHED-TTL:PT12H",
+    ]
+    for e in events:
+        start = stamp(e["start"])
+        end = stamp(e["end"]) if e.get("end") else None
+        who = e["speaker"] + (f" ({e['affiliation']})" if e.get("affiliation") else "")
+        lines += [
+            "BEGIN:VEVENT",
+            f"UID:jams-{e['id']}@siamsc.maths.ox.ac.uk",
+            f"DTSTAMP:{start}",  # deterministic, so unchanged events don't create commits
+            f"DTSTART:{start}",
+            f"DTEND:{end}" if end else "DURATION:PT30M",
+            "SUMMARY:" + ics_escape(f"JAMS: {e['title']} – {e['speaker']}"),
+            "DESCRIPTION:" + ics_escape(f"Speaker: {who}\nDetails: {e['url']}"
+                                        + (f"\nSlides: {e['slides']}" if e.get("slides") else "")),
+            "LOCATION:" + ics_escape(f"{e['room']}, Mathematical Institute, University of Oxford" if e.get("room")
+                                     else "Mathematical Institute, University of Oxford"),
+            f"URL:{e['url']}",
+            "END:VEVENT",
+        ]
+    lines.append("END:VCALENDAR")
+    return "\r\n".join(fold(l) for l in lines) + "\r\n"
 
 
 if __name__ == "__main__":
