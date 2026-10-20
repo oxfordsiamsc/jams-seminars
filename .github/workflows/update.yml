@@ -27,16 +27,16 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build seminars.json and jams.ics
+      - name: Build seminars.json, archive.json and jams.ics
         run: python scripts/build.py
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add seminars.json jams.ics
-          # Ignore the timestamp so we only commit when the seminars change.
-          if ! git diff --cached --quiet jams.ics || git diff --cached -U0 seminars.json | grep -E '^[+-] ' | grep -vq '"updated"'; then
+          git add seminars.json archive.json jams.ics
+          # Ignore the timestamps so we only commit when the seminars change.
+          if git diff --cached -U0 | grep -E '^[+-] ' | grep -vq '"updated"'; then
             git commit -m "Update seminars from maths.ox.ac.uk"
           elif [ "$(git log -1 --format=%ct)" -lt "$(date -d '45 days ago' +%s)" ]; then
             # GitHub pauses scheduled workflows after 60 days without commits.

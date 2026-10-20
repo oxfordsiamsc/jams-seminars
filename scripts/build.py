@@ -1,4 +1,4 @@
-"""Build seminars.json for the Oxford SIAM Student Chapter website.
+"""Build seminars.json, archive.json and jams.ics for the Oxford SIAM Student Chapter website.
 
 Scrapes the Junior Applied Mathematics Seminar (series 650) listings on the
 Mathematical Institute website and merges in the slides listed in slides.json.
@@ -66,11 +66,36 @@ def parse(page):
     return events
 
 
+def fetch_past():
+    """All past talks, following the department's pagination (?page=0, 1, ...)."""
+    events = []
+    for page in range(30):
+        found = parse(fetch(f"{PAST_URL}?page={page}"))
+        if not found:
+            break
+        events += found
+    return events
+
+
+def write_json(path, data):
+    path.write_bytes((json.dumps(data, ensure_ascii=False, indent=2) + "\n").encode("utf-8"))
+
+
 def main():
     upcoming = parse(fetch(UPCOMING_URL))
-    past = parse(fetch(PAST_URL))
+    past = fetch_past()
     if not upcoming and not past:
         sys.exit("No events parsed: the department page layout may have changed.")
+
+    # Keep every talk we have ever seen, even if the department later drops it.
+    archive_path = ROOT / "archive.json"
+    known = {}
+    if archive_path.exists():
+        known = {e["id"]: e for e in json.loads(archive_path.read_text(encoding="utf-8"))["seminars"]}
+    upcoming_ids = {e["id"] for e in upcoming}
+    known = {i: e for i, e in known.items() if i not in upcoming_ids}
+    known.update({e["id"]: e for e in past})
+    past = sorted(known.values(), key=lambda e: e["start"], reverse=True)
 
     slides = json.loads((ROOT / "slides.json").read_text(encoding="utf-8"))
     by_id = {e["id"]: e for e in past + upcoming}
@@ -81,19 +106,22 @@ def main():
         if event.get("title"):
             talks_with_slides.append(event)
     for e in past + upcoming:
+        e.pop("slides", None)
         match = next((s for s in slides if str(s.get("id")) == e["id"]), None)
         if match:
             e["slides"] = match["slides"]
 
     talks_with_slides.sort(key=lambda e: e.get("start", ""), reverse=True)
+    updated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     out = {
         "source": UPCOMING_URL,
-        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "updated": updated,
         "upcoming": sorted(upcoming, key=lambda e: e["start"]),
-        "past": sorted(past, key=lambda e: e["start"], reverse=True)[:12],
+        "past": past[:12],
         "slides": talks_with_slides,
     }
-    (ROOT / "seminars.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    write_json(ROOT / "seminars.json", out)
+    write_json(archive_path, {"source": PAST_URL, "updated": updated, "seminars": past})
     calendar = sorted(out["upcoming"] + out["past"], key=lambda e: e["start"])
     (ROOT / "jams.ics").write_bytes(ics(calendar).encode("utf-8"))
     print(f"{len(out['upcoming'])} upcoming, {len(past)} past, {len(talks_with_slides)} with slides")

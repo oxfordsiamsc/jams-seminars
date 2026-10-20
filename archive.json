@@ -1,0 +1,1697 @@
+{
+  "source": "https://www.maths.ox.ac.uk/events/past/650",
+  "updated": "2026-10-20T15:16:48Z",
+  "seminars": [
+    {
+      "id": "83067",
+      "title": "Solving a sequence of eigenvalue problems using snapshot and row subsampling",
+      "url": "https://www.maths.ox.ac.uk/node/83067",
+      "speaker": "Francesco Hrobat",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "L5",
+      "start": "2026-10-20T11:30:00Z",
+      "end": "2026-10-20T12:00:00Z",
+      "slides": "https://fhrobat.github.io/jams_talk"
+    },
+    {
+      "id": "81048",
+      "title": "A spatially adaptive hybrid model in reaction diffusion systems",
+      "url": "https://www.maths.ox.ac.uk/node/81048",
+      "speaker": "Charlie Cameron",
+      "affiliation": "University of Bath",
+      "room": "C2",
+      "start": "2026-06-16T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81079",
+      "title": "Beyond Snap-Fit: the Lifting Capabilities of a Partial Cylindrical Shell",
+      "url": "https://www.maths.ox.ac.uk/node/81079",
+      "speaker": "Grace Curtis",
+      "affiliation": "OCIAM, Oxford",
+      "room": "C2",
+      "start": "2026-06-02T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81064",
+      "title": "Fluid mechanics and irreversible thermodynamics of lithium-ion battery electrolytes",
+      "url": "https://www.maths.ox.ac.uk/node/81064",
+      "speaker": "Aaron Baier-Reinio",
+      "affiliation": "Numerical Analysis",
+      "room": "C2",
+      "start": "2026-05-19T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81182",
+      "title": "Try a Policy Internship and Apply Your Maths from Marine Mammals to Much More",
+      "url": "https://www.maths.ox.ac.uk/node/81182",
+      "speaker": "Jun Jewell",
+      "affiliation": "WCMB",
+      "room": "C2",
+      "start": "2026-05-12T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81045",
+      "title": "A multiscale discrete-to-continuum framework for structured population models",
+      "url": "https://www.maths.ox.ac.uk/node/81045",
+      "speaker": "Eleonora Agostinelli",
+      "affiliation": "Wolfson Centre for Mathematical Biology",
+      "room": "C2",
+      "start": "2026-05-05T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "79960",
+      "title": "Quantifying Spatial Relationships in Labelled Data with Topology",
+      "url": "https://www.maths.ox.ac.uk/node/79960",
+      "speaker": "Abhinav Natarajan",
+      "affiliation": "OCIAM Oxford",
+      "room": "C4",
+      "start": "2026-03-10T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74655",
+      "title": "The flow-induced compaction of visco-elastic and visco-plastic soft porous media",
+      "url": "https://www.maths.ox.ac.uk/node/74655",
+      "speaker": "Emma Bouckley",
+      "affiliation": "Theoretical Geophysics, Cambridge",
+      "room": "C4",
+      "start": "2026-02-24T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "79958",
+      "title": "Models for subglacial floods during surface lake drainage events",
+      "url": "https://www.maths.ox.ac.uk/node/79958",
+      "speaker": "Harry Stuart",
+      "affiliation": "OCIAM Oxford",
+      "room": "C4",
+      "start": "2026-02-10T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74656",
+      "title": "Electrostatic regulation of biomolecular condensates.",
+      "url": "https://www.maths.ox.ac.uk/node/74656",
+      "speaker": "Jasper Knox",
+      "affiliation": "Dept of Engineering Maths University of Bristol",
+      "room": "C3",
+      "start": "2026-01-27T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74307",
+      "title": "Injection-driven Spreading of a Surfactant-laden Droplet on a Pre-wetted Substrate",
+      "url": "https://www.maths.ox.ac.uk/node/74307",
+      "speaker": "William Gillow",
+      "affiliation": "OCIAM",
+      "room": "C2",
+      "start": "2025-12-02T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74306",
+      "title": "Adhesion-driven patterning in collective cell behaviour",
+      "url": "https://www.maths.ox.ac.uk/node/74306",
+      "speaker": "Carles Falco",
+      "affiliation": "WCMB",
+      "room": "C2",
+      "start": "2025-11-18T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74305",
+      "title": "How General Relativity shapes our universe",
+      "url": "https://www.maths.ox.ac.uk/node/74305",
+      "speaker": "Alice Luscher, Mathematical Physics",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2025-11-04T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74304",
+      "title": "Mathematical modelling of a mass-conserving electrolytic cell",
+      "url": "https://www.maths.ox.ac.uk/node/74304",
+      "speaker": "Georgina Ryan, OCIAM",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2025-10-21T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "72190",
+      "title": "Does initial colony shape change collective cellular behaviour?",
+      "url": "https://www.maths.ox.ac.uk/node/72190",
+      "speaker": "Elliot Hughes",
+      "affiliation": "",
+      "room": "C2",
+      "start": "2025-06-17T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "72189",
+      "title": "On the Limits of PAC Learning Opinion Dynamics",
+      "url": "https://www.maths.ox.ac.uk/node/72189",
+      "speaker": "Luisa Estrada-Plata, University of Warwick",
+      "affiliation": "",
+      "room": "",
+      "start": "2025-06-03T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "72188",
+      "title": "DecepTIV: A Large-Scale Benchmark for Robust Detection of T2V and I2V Synthetic Videos",
+      "url": "https://www.maths.ox.ac.uk/node/72188",
+      "speaker": "Sotirios Stamnas, University of Warwick",
+      "affiliation": "",
+      "room": "",
+      "start": "2025-06-03T11:00:00Z",
+      "end": null
+    },
+    {
+      "id": "72191",
+      "title": "Computational Resources",
+      "url": "https://www.maths.ox.ac.uk/node/72191",
+      "speaker": "Keith Gillow",
+      "affiliation": "",
+      "room": "",
+      "start": "2025-05-20T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "72192",
+      "title": "Decoding human behaviour using dynamics, memory and reduced complexity",
+      "url": "https://www.maths.ox.ac.uk/node/72192",
+      "speaker": "Bridget Smart",
+      "affiliation": "",
+      "room": "",
+      "start": "2025-05-06T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "66277",
+      "title": "Concentration phenomena in Aggregation Fast-Diffusion equations",
+      "url": "https://www.maths.ox.ac.uk/node/66277",
+      "speaker": "Alejandro Fernandez-Jiminez",
+      "affiliation": "",
+      "room": "C4",
+      "start": "2023-11-27T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "66276",
+      "title": "Efficient simulation of dynamics on distance-dependent networks",
+      "url": "https://www.maths.ox.ac.uk/node/66276",
+      "speaker": "Ramon Nartallo-Kaluarachchi",
+      "affiliation": "",
+      "room": "C6",
+      "start": "2023-11-14T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "66275",
+      "title": "Collective cell migration: what does it look like and what do I model?",
+      "url": "https://www.maths.ox.ac.uk/node/66275",
+      "speaker": "Rebecca Crossley",
+      "affiliation": "",
+      "room": "C4",
+      "start": "2023-10-31T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "66069",
+      "title": "Percolation on Smooth Gaussian Fields",
+      "url": "https://www.maths.ox.ac.uk/node/66069",
+      "speaker": "Julius Villar",
+      "affiliation": "",
+      "room": "C4",
+      "start": "2023-10-17T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "63900",
+      "title": "Hydrocephalus shunt simulations",
+      "url": "https://www.maths.ox.ac.uk/node/63900",
+      "speaker": "Lizzi Hayman",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-06-13T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "63899",
+      "title": "Compromised clearance and cognitive decline",
+      "url": "https://www.maths.ox.ac.uk/node/63899",
+      "speaker": "Georgia Brennan",
+      "affiliation": "",
+      "room": "C2",
+      "start": "2023-05-30T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "62496",
+      "title": "Structure-Preserving Finite-Element Methods for Inhomogeneous and Time-Dependent PDEs",
+      "url": "https://www.maths.ox.ac.uk/node/62496",
+      "speaker": "Boris Andrews",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-05-16T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "63898",
+      "title": "An Introduction to Holography",
+      "url": "https://www.maths.ox.ac.uk/node/63898",
+      "speaker": "Alice Luscher",
+      "affiliation": "",
+      "room": "C2",
+      "start": "2023-05-02T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "62498",
+      "title": "Mathematical modelling of liquid lithium inside a tokamak fusion reactor",
+      "url": "https://www.maths.ox.ac.uk/node/62498",
+      "speaker": "Oliver Bond",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-03-07T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "62497",
+      "title": "Modelling the weathering crust and microbial activity on an ice-sheet surface",
+      "url": "https://www.maths.ox.ac.uk/node/62497",
+      "speaker": "Tilly Woods",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-02-21T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "62499",
+      "title": "Studying occupational mobility using online resume data",
+      "url": "https://www.maths.ox.ac.uk/node/62499",
+      "speaker": "Rohit Sahasrabuddhe",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-02-07T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "62495",
+      "title": "Onsager's conjecture for energy conservation",
+      "url": "https://www.maths.ox.ac.uk/node/62495",
+      "speaker": "Samuel Charles",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2023-01-24T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "61963",
+      "title": "Spatial analysis to investigate the emergent dynamics of a cellular automaton model of tumour-immune interactions.",
+      "url": "https://www.maths.ox.ac.uk/node/61963",
+      "speaker": "Roisin Stephens",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2022-11-29T12:30:00Z",
+      "end": "2022-11-29T13:00:00Z"
+    },
+    {
+      "id": "61762",
+      "title": "A Hele-Shaw Newton's cradle and Reciprocity in Fluids",
+      "url": "https://www.maths.ox.ac.uk/node/61762",
+      "speaker": "Daniel Booth and Matthew Cotton",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2022-11-15T12:30:00Z",
+      "end": "2022-11-15T13:00:00Z"
+    },
+    {
+      "id": "61623",
+      "title": "Asymptotic Analysis of Deep Residual Networks",
+      "url": "https://www.maths.ox.ac.uk/node/61623",
+      "speaker": "Alain Rossier",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2022-11-01T12:30:00Z",
+      "end": "2022-11-01T13:00:00Z"
+    },
+    {
+      "id": "61589",
+      "title": "Recovering scattering distributions from covariance-map images of product distributions",
+      "url": "https://www.maths.ox.ac.uk/node/61589",
+      "speaker": "Brady Metherall",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2022-10-18T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "60621",
+      "title": "Communicating Mathematics: From equations to storytelling",
+      "url": "https://www.maths.ox.ac.uk/node/60621",
+      "speaker": "Michael Negus",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2022-05-31T11:30:00Z",
+      "end": "2022-05-31T12:30:00Z"
+    },
+    {
+      "id": "60292",
+      "title": "Finite element methods for the Stokes–Onsager–Stefan–Maxwell equations of multicomponent flow",
+      "url": "https://www.maths.ox.ac.uk/node/60292",
+      "speaker": "Francis Aznaran",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2022-05-17T11:30:00Z",
+      "end": "2022-05-17T12:30:00Z"
+    },
+    {
+      "id": "60158",
+      "title": "A model of internal stresses within hydrogel-coated stem cells in transit to the liver",
+      "url": "https://www.maths.ox.ac.uk/node/60158",
+      "speaker": "Simon Finney",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2022-05-03T11:30:00Z",
+      "end": "2022-05-03T12:30:00Z"
+    },
+    {
+      "id": "41303",
+      "title": "Modelling the labour market: Occupational mobility during the pandemic in the U.S.",
+      "url": "https://www.maths.ox.ac.uk/node/41303",
+      "speaker": "Anna Berryman",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2022-03-08T12:30:00Z",
+      "end": "2022-03-08T13:30:00Z"
+    },
+    {
+      "id": "41020",
+      "title": "Modelling laser-induced vapour bubbles in the treatment of kidney stones",
+      "url": "https://www.maths.ox.ac.uk/node/41020",
+      "speaker": "Sophie Abrahams",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2022-02-22T12:30:00Z",
+      "end": "2022-02-22T13:15:00Z"
+    },
+    {
+      "id": "40864",
+      "title": "Reinforcement Learning for Optimal Execution",
+      "url": "https://www.maths.ox.ac.uk/node/40864",
+      "speaker": "Huining Yang",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2022-02-08T12:30:00Z",
+      "end": "2022-02-08T13:30:00Z"
+    },
+    {
+      "id": "40558",
+      "title": "Modelling high-speed droplet impact onto an elastic membrane (Negus). Lubrication model of a valve-controlled, gravity-driven bioreactor (Saville)",
+      "url": "https://www.maths.ox.ac.uk/node/40558",
+      "speaker": "Michael Negus & Helen Saville",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2021-11-30T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "40283",
+      "title": "Contact problems in glaciology",
+      "url": "https://www.maths.ox.ac.uk/node/40283",
+      "speaker": "Gonzalo Gonzalez De Diego",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2021-11-16T12:30:00Z",
+      "end": "2021-11-16T13:30:00Z"
+    },
+    {
+      "id": "40281",
+      "title": "A homogenisation approach to mass transport models for organoid culture",
+      "url": "https://www.maths.ox.ac.uk/node/40281",
+      "speaker": "Meredith Ellis",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2021-11-02T12:30:00Z",
+      "end": "2021-11-02T13:00:00Z"
+    },
+    {
+      "id": "40200",
+      "title": "Control of bifurcation structures using shape optimization",
+      "url": "https://www.maths.ox.ac.uk/node/40200",
+      "speaker": "Nicolas Boulle",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "C5",
+      "start": "2021-10-19T11:30:00Z",
+      "end": "2021-10-19T12:00:00Z"
+    },
+    {
+      "id": "38926",
+      "title": "Homogenisation to Link Scales in Tendon Tissue Engineering",
+      "url": "https://www.maths.ox.ac.uk/node/38926",
+      "speaker": "Amy Kent",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "Virtual",
+      "start": "2021-06-18T12:00:00Z",
+      "end": "2021-06-18T12:30:00Z"
+    },
+    {
+      "id": "39091",
+      "title": "Neural Controlled Differential Equations for Online Prediction Tasks",
+      "url": "https://www.maths.ox.ac.uk/node/39091",
+      "speaker": "James Morrill",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "",
+      "start": "2021-06-01T11:45:00Z",
+      "end": "2021-06-01T12:30:00Z"
+    },
+    {
+      "id": "39056",
+      "title": "Computing the Index of Saddle Points without Second Derivatives",
+      "url": "https://www.maths.ox.ac.uk/node/39056",
+      "speaker": "Ambrose Yim",
+      "affiliation": "Mathematical Institute (University of Oxford",
+      "room": "",
+      "start": "2021-05-04T11:45:00Z",
+      "end": "2021-05-04T12:30:00Z"
+    },
+    {
+      "id": "38019",
+      "title": "Modelling the role of vWF in initiating arterial thrombosis",
+      "url": "https://www.maths.ox.ac.uk/node/38019",
+      "speaker": "Edwina Yeo",
+      "affiliation": "OCIAM, Oxford",
+      "room": "Virtual",
+      "start": "2021-03-09T12:45:00Z",
+      "end": null
+    },
+    {
+      "id": "38154",
+      "title": "A Tourist Guide to Topological Data Analysis",
+      "url": "https://www.maths.ox.ac.uk/node/38154",
+      "speaker": "Sung Hyun Lim",
+      "affiliation": "Mathematical Insitute, Oxford",
+      "room": "Virtual",
+      "start": "2021-02-09T12:45:00Z",
+      "end": "2021-02-09T13:45:00Z"
+    },
+    {
+      "id": "38051",
+      "title": "Estimation for diffusion processes constrained by a polytope",
+      "url": "https://www.maths.ox.ac.uk/node/38051",
+      "speaker": "Sheng Wang",
+      "affiliation": "Mathematical Insitute, Oxford",
+      "room": "Virtual",
+      "start": "2021-01-26T12:45:00Z",
+      "end": null
+    },
+    {
+      "id": "37261",
+      "title": "Bayesian estimation of point processes",
+      "url": "https://www.maths.ox.ac.uk/node/37261",
+      "speaker": "Deborah Sulem",
+      "affiliation": "Department of Statistics, Oxford",
+      "room": "",
+      "start": "2020-12-01T12:45:00Z",
+      "end": "2020-12-01T13:30:00Z"
+    },
+    {
+      "id": "37075",
+      "title": "The unreasonable effectiveness of the effective resistance",
+      "url": "https://www.maths.ox.ac.uk/node/37075",
+      "speaker": "Karel Devriendt",
+      "affiliation": "Oxford University",
+      "room": "",
+      "start": "2020-11-17T12:45:00Z",
+      "end": "2020-11-17T13:30:00Z"
+    },
+    {
+      "id": "37197",
+      "title": "Network models for ponding on sea ice",
+      "url": "https://www.maths.ox.ac.uk/node/37197",
+      "speaker": "Michael Coughlan",
+      "affiliation": "Oxford University",
+      "room": "",
+      "start": "2020-11-03T12:45:00Z",
+      "end": "2020-11-03T13:30:00Z"
+    },
+    {
+      "id": "37196",
+      "title": "A Randomised Subspace Gauss-Newton Method for Nonlinear Least-Squares",
+      "url": "https://www.maths.ox.ac.uk/node/37196",
+      "speaker": "Zhen Shao",
+      "affiliation": "Oxford University",
+      "room": "",
+      "start": "2020-10-20T11:45:00Z",
+      "end": "2020-10-20T12:30:00Z"
+    },
+    {
+      "id": "35270",
+      "title": "Multi-Objective Resource Allocation for Cognitive Radio Networks (An Exercise in Study Group Management)",
+      "url": "https://www.maths.ox.ac.uk/node/35270",
+      "speaker": "Joseph Field",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2020-03-10T12:45:00Z",
+      "end": "2020-03-10T14:00:00Z"
+    },
+    {
+      "id": "35160",
+      "title": "Automated quantitative myocardial perfusion MRI",
+      "url": "https://www.maths.ox.ac.uk/node/35160",
+      "speaker": "Cian Scannell",
+      "affiliation": "Kings College, London",
+      "room": "C3",
+      "start": "2020-02-25T12:45:00Z",
+      "end": "2020-02-25T14:00:00Z"
+    },
+    {
+      "id": "35020",
+      "title": "Elastic deformations of a thin component moved by a robot",
+      "url": "https://www.maths.ox.ac.uk/node/35020",
+      "speaker": "Oliver Bond",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2020-02-11T12:45:00Z",
+      "end": "2020-02-11T14:00:00Z"
+    },
+    {
+      "id": "34839",
+      "title": "The combined modelling of tumour growth and its environment",
+      "url": "https://www.maths.ox.ac.uk/node/34839",
+      "speaker": "Yusuf Al-Husaini",
+      "affiliation": "Brookes University (Oxford",
+      "room": "C3",
+      "start": "2020-01-28T12:45:00Z",
+      "end": "2020-01-28T14:00:00Z"
+    },
+    {
+      "id": "34381",
+      "title": "Computing multiple local minima of topology optimization problems with second-order methods",
+      "url": "https://www.maths.ox.ac.uk/node/34381",
+      "speaker": "Ioannis Papadopoulos",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2019-12-03T12:45:00Z",
+      "end": "2019-12-03T14:00:00Z"
+    },
+    {
+      "id": "34271",
+      "title": "Droplet impact on deformable substrates: A combined theoretical and computational approach",
+      "url": "https://www.maths.ox.ac.uk/node/34271",
+      "speaker": "Michael Negus",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2019-11-19T12:45:00Z",
+      "end": "2019-11-19T14:00:00Z"
+    },
+    {
+      "id": "34145",
+      "title": "Dimensionality reduction techniques for global optimization",
+      "url": "https://www.maths.ox.ac.uk/node/34145",
+      "speaker": "Adilet Otemissov",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2019-11-05T12:45:00Z",
+      "end": "2019-11-05T14:00:00Z"
+    },
+    {
+      "id": "33990",
+      "title": "Numerical Simulations using Approximate Random Numbers",
+      "url": "https://www.maths.ox.ac.uk/node/33990",
+      "speaker": "Oliver Sheridan-Methven",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2019-10-22T11:45:00Z",
+      "end": "2019-10-22T13:00:00Z"
+    },
+    {
+      "id": "32746",
+      "title": "Multi-armed bandit under uncertainty",
+      "url": "https://www.maths.ox.ac.uk/node/32746",
+      "speaker": "Tanut Treetanthiploet",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2019-06-18T11:45:00Z",
+      "end": "2019-06-18T13:00:00Z"
+    },
+    {
+      "id": "32650",
+      "title": "Multiple scales analysis of a conductive-radiative thermal transfer model",
+      "url": "https://www.maths.ox.ac.uk/node/32650",
+      "speaker": "Caoimhe Rooney",
+      "affiliation": "University of Oxford",
+      "room": "C3",
+      "start": "2019-06-04T11:45:00Z",
+      "end": "2019-06-04T13:00:00Z"
+    },
+    {
+      "id": "32541",
+      "title": "Optimising the parallel picking strategy for a Besi component wafer",
+      "url": "https://www.maths.ox.ac.uk/node/32541",
+      "speaker": "Jonathan Grant-Peters",
+      "affiliation": "University of Oxford",
+      "room": "C3",
+      "start": "2019-05-21T11:45:00Z",
+      "end": "2019-05-21T13:00:00Z"
+    },
+    {
+      "id": "32391",
+      "title": "When Zeno met Pontryagin: a curious phenomenon in optimal control",
+      "url": "https://www.maths.ox.ac.uk/node/32391",
+      "speaker": "Davin Lunz",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2019-05-07T10:45:00Z",
+      "end": null
+    },
+    {
+      "id": "31813",
+      "title": "Modelling Magnetically Targeted Stem Cell Delivery",
+      "url": "https://www.maths.ox.ac.uk/node/31813",
+      "speaker": "Edwina Yeo",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2019-03-05T12:45:00Z",
+      "end": "2019-03-05T13:30:00Z"
+    },
+    {
+      "id": "31659",
+      "title": "Model of a cycling coexistence of viral strains and a survival of the specialist",
+      "url": "https://www.maths.ox.ac.uk/node/31659",
+      "speaker": "Anel Nurtay",
+      "affiliation": "",
+      "room": "C3",
+      "start": "2019-02-19T12:45:00Z",
+      "end": "2019-02-19T13:30:00Z"
+    },
+    {
+      "id": "31381",
+      "title": "A Boundary Layer Analysis for the Initiation of Reactive Shear Bands",
+      "url": "https://www.maths.ox.ac.uk/node/31381",
+      "speaker": "Robert Timms",
+      "affiliation": "Oxford University",
+      "room": "C3",
+      "start": "2019-02-05T12:45:00Z",
+      "end": "2019-02-05T13:30:00Z"
+    },
+    {
+      "id": "31246",
+      "title": "Wave attenuation by flexible vegetation",
+      "url": "https://www.maths.ox.ac.uk/node/31246",
+      "speaker": "Clint Wong",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2019-01-22T12:45:00Z",
+      "end": "2019-01-22T13:30:00Z"
+    },
+    {
+      "id": "30792",
+      "title": "Wrinkling of Elastic Bilayers",
+      "url": "https://www.maths.ox.ac.uk/node/30792",
+      "speaker": "Hamza Alawiye",
+      "affiliation": "Oxford",
+      "room": "C5",
+      "start": "2018-11-27T12:45:00Z",
+      "end": "2018-11-27T13:30:00Z"
+    },
+    {
+      "id": "30586",
+      "title": "Nucleation, Bubble Growth and Coalescence",
+      "url": "https://www.maths.ox.ac.uk/node/30586",
+      "speaker": "Victoria Pereira",
+      "affiliation": "Mathematical Institute/Engineering",
+      "room": "C5",
+      "start": "2018-11-13T12:45:00Z",
+      "end": "2018-11-13T13:30:00Z"
+    },
+    {
+      "id": "30425",
+      "title": "Riding through glue: the aerodynamics of performance cycling",
+      "url": "https://www.maths.ox.ac.uk/node/30425",
+      "speaker": "Alex Bradley",
+      "affiliation": "Dept of Mathematical Sciences",
+      "room": "C5",
+      "start": "2018-10-30T12:45:00Z",
+      "end": "2018-10-30T13:30:00Z"
+    },
+    {
+      "id": "30225",
+      "title": "Information Highways and Navigating the Network",
+      "url": "https://www.maths.ox.ac.uk/node/30225",
+      "speaker": "Michael Murray",
+      "affiliation": "Mathematical Institute/Engineering",
+      "room": "C5",
+      "start": "2018-10-16T11:45:00Z",
+      "end": "2018-10-16T12:30:00Z"
+    },
+    {
+      "id": "28785",
+      "title": "Scalable Least-Squares Minimisation for Bundle Adjustment Problems",
+      "url": "https://www.maths.ox.ac.uk/node/28785",
+      "speaker": "Lindon Roberts",
+      "affiliation": "",
+      "room": "C5",
+      "start": "2018-06-12T11:45:00Z",
+      "end": "2018-06-12T12:30:00Z"
+    },
+    {
+      "id": "28665",
+      "title": "Homogenisation Applied to Electrical Calcination of Carbon Materials",
+      "url": "https://www.maths.ox.ac.uk/node/28665",
+      "speaker": "Caoimhe Rooney",
+      "affiliation": "",
+      "room": "C5",
+      "start": "2018-05-29T11:45:00Z",
+      "end": "2018-05-29T12:30:00Z"
+    },
+    {
+      "id": "28562",
+      "title": "Complex singularities near the intersection of a free-surface and a rigid wall",
+      "url": "https://www.maths.ox.ac.uk/node/28562",
+      "speaker": "Thomas Chandler",
+      "affiliation": "",
+      "room": "C5",
+      "start": "2018-05-15T11:45:00Z",
+      "end": "2018-05-15T12:30:00Z"
+    },
+    {
+      "id": "28430",
+      "title": "Randomized algorithms for computing full, rank-revealing factorizations",
+      "url": "https://www.maths.ox.ac.uk/node/28430",
+      "speaker": "Abinand Gopal",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2018-05-01T11:45:00Z",
+      "end": "2018-05-01T12:30:00Z"
+    },
+    {
+      "id": "27955",
+      "title": "Modelling the collective migration of neural crest cells",
+      "url": "https://www.maths.ox.ac.uk/node/27955",
+      "speaker": "Rasa Giniunaite",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2018-03-06T12:45:00Z",
+      "end": "2018-03-06T13:30:00Z"
+    },
+    {
+      "id": "27806",
+      "title": "Modular Structure in Temporal Protein Interaction Networks",
+      "url": "https://www.maths.ox.ac.uk/node/27806",
+      "speaker": "Florian Klimm",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2018-02-20T12:45:00Z",
+      "end": "2018-02-20T13:30:00Z"
+    },
+    {
+      "id": "27605",
+      "title": "Water Wave Absorption",
+      "url": "https://www.maths.ox.ac.uk/node/27605",
+      "speaker": "Helen Fletcher",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2018-01-23T12:45:00Z",
+      "end": "2018-01-23T13:30:00Z"
+    },
+    {
+      "id": "27151",
+      "title": "Passive control of viscous flow via elastic snap-through",
+      "url": "https://www.maths.ox.ac.uk/node/27151",
+      "speaker": "Michael Gomez",
+      "affiliation": "Mathematical Institute",
+      "room": "C5",
+      "start": "2017-11-28T12:45:00Z",
+      "end": "2017-11-28T13:30:00Z"
+    },
+    {
+      "id": "26948",
+      "title": "A Bio-inspired Design for a Switchable Elastocapillary Adhesive",
+      "url": "https://www.maths.ox.ac.uk/node/26948",
+      "speaker": "Matt Butler",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2017-11-14T12:45:00Z",
+      "end": "2017-11-14T13:30:00Z"
+    },
+    {
+      "id": "26808",
+      "title": "Shape Optimisation with Conformal Mappings",
+      "url": "https://www.maths.ox.ac.uk/node/26808",
+      "speaker": "Florian Wechsung",
+      "affiliation": "Mathematical Institute, Oxford",
+      "room": "C5",
+      "start": "2017-10-31T12:45:00Z",
+      "end": "2017-10-31T13:30:00Z"
+    },
+    {
+      "id": "26649",
+      "title": "Analysis of small contacts between particles in a furnace",
+      "url": "https://www.maths.ox.ac.uk/node/26649",
+      "speaker": "Caoimhe Rooney",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2017-10-17T11:45:00Z",
+      "end": null
+    },
+    {
+      "id": "25490",
+      "title": "Modelling Lead-acid batteries for off-grid energy storage systems",
+      "url": "https://www.maths.ox.ac.uk/node/25490",
+      "speaker": "Tino Sulzer",
+      "affiliation": "Mathematical Institute",
+      "room": "C5",
+      "start": "2017-06-13T11:45:00Z",
+      "end": "2017-06-13T12:30:00Z"
+    },
+    {
+      "id": "25489",
+      "title": "Vanishing viscosity limit of the Navier--Stokes equation on 3D smooth domains with Navier boundary condition",
+      "url": "https://www.maths.ox.ac.uk/node/25489",
+      "speaker": "Siran Li",
+      "affiliation": "Mathematical Institute",
+      "room": "C5",
+      "start": "2017-05-30T11:45:00Z",
+      "end": "2017-05-30T12:30:00Z"
+    },
+    {
+      "id": "25351",
+      "title": "Pattern Formation in Non-Local Systems with Cross-Diffusion",
+      "url": "https://www.maths.ox.ac.uk/node/25351",
+      "speaker": "Markus Schmidtchen",
+      "affiliation": "Imperial College London",
+      "room": "C5",
+      "start": "2017-05-16T11:45:00Z",
+      "end": "2017-05-16T12:30:00Z"
+    },
+    {
+      "id": "25255",
+      "title": "Numerical Methods and Preconditioning for Reservoir Simulation",
+      "url": "https://www.maths.ox.ac.uk/node/25255",
+      "speaker": "Thomas Roy",
+      "affiliation": "Mathematical Institute",
+      "room": "C5",
+      "start": "2017-05-02T11:45:00Z",
+      "end": "2017-05-02T12:15:00Z"
+    },
+    {
+      "id": "24950",
+      "title": "Instabilities in the self-similar motion of a solidification front",
+      "url": "https://www.maths.ox.ac.uk/node/24950",
+      "speaker": "Ferran Brosa Planella",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2017-03-07T12:45:00Z",
+      "end": "2017-03-07T13:15:00Z"
+    },
+    {
+      "id": "24881",
+      "title": "Symmetry-breaking and nonlocal reaction-diffusion mechanisms in bioactive porous media, or \"How not to model porous media\"",
+      "url": "https://www.maths.ox.ac.uk/node/24881",
+      "speaker": "Andrew Krause",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2017-02-21T12:45:00Z",
+      "end": "2017-02-21T13:15:00Z"
+    },
+    {
+      "id": "24800",
+      "title": "Optimal recharge of the water table in Cyprus",
+      "url": "https://www.maths.ox.ac.uk/node/24800",
+      "speaker": "Graham Benham",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2017-02-07T12:45:00Z",
+      "end": "2017-02-07T13:30:00Z"
+    },
+    {
+      "id": "24492",
+      "title": "Modelling congestion in supermarkets via queuing networks",
+      "url": "https://www.maths.ox.ac.uk/node/24492",
+      "speaker": "Fabian Ying",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2017-01-24T12:30:00Z",
+      "end": "2017-01-24T13:00:00Z"
+    },
+    {
+      "id": "23954",
+      "title": "Community Detection in Annotated Bipartite Networks",
+      "url": "https://www.maths.ox.ac.uk/node/23954",
+      "speaker": "Roxana Pamfil",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-11-29T12:45:00Z",
+      "end": "2016-11-29T13:30:00Z"
+    },
+    {
+      "id": "23893",
+      "title": "Modelling oil droplet breakup in a turbulent jet",
+      "url": "https://www.maths.ox.ac.uk/node/23893",
+      "speaker": "Rachel Philip",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-11-15T12:30:00Z",
+      "end": "2016-11-15T13:15:00Z"
+    },
+    {
+      "id": "23759",
+      "title": "Stretching and deformation of thin viscous sheets: glass redraw through a long heater zone",
+      "url": "https://www.maths.ox.ac.uk/node/23759",
+      "speaker": "Doireann O'Kiely",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-11-01T12:45:00Z",
+      "end": "2016-11-01T13:30:00Z"
+    },
+    {
+      "id": "16690",
+      "title": "Scalable Two-Phase Flow Solvers",
+      "url": "https://www.maths.ox.ac.uk/node/16690",
+      "speaker": "Niall Bootland",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-10-18T11:45:00Z",
+      "end": "2016-10-18T12:30:00Z"
+    },
+    {
+      "id": "16366",
+      "title": "Solving PDEs in reservoir simulation",
+      "url": "https://www.maths.ox.ac.uk/node/16366",
+      "speaker": "Asbjørn Nilsen Riseth",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-06-14T11:45:00Z",
+      "end": "2016-06-14T12:30:00Z"
+    },
+    {
+      "id": "16346",
+      "title": "Modelling the Roasting of a Single Coffee Bean",
+      "url": "https://www.maths.ox.ac.uk/node/16346",
+      "speaker": "Nabil Fadai",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-05-31T11:30:00Z",
+      "end": "2016-05-31T12:00:00Z"
+    },
+    {
+      "id": "16306",
+      "title": "Sorting of micro-swimmers in flowing visco-elastic fluids",
+      "url": "https://www.maths.ox.ac.uk/node/16306",
+      "speaker": "Arnold Mathijssen",
+      "affiliation": "University of Oxford",
+      "room": "C5",
+      "start": "2016-05-17T11:45:00Z",
+      "end": "2016-05-17T12:30:00Z"
+    },
+    {
+      "id": "16264",
+      "title": "√T, or not √T, that is the question",
+      "url": "https://www.maths.ox.ac.uk/node/16264",
+      "speaker": "Matthew Saxton",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2016-05-03T12:00:00Z",
+      "end": "2016-05-03T12:30:00Z"
+    },
+    {
+      "id": "16263",
+      "title": "Topics in silicon solidification: A Norweigan adventure",
+      "url": "https://www.maths.ox.ac.uk/node/16263",
+      "speaker": "Graham Benham",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C5",
+      "start": "2016-05-03T11:30:00Z",
+      "end": "2016-05-03T12:00:00Z"
+    },
+    {
+      "id": "16026",
+      "title": "Critical slowdown in purely elastic 'snap-through' instabilities",
+      "url": "https://www.maths.ox.ac.uk/node/16026",
+      "speaker": "Michael Gomez",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2016-03-08T13:00:00Z",
+      "end": "2016-03-08T13:30:00Z"
+    },
+    {
+      "id": "16025",
+      "title": "A Network Model of Bioactive Porous Media",
+      "url": "https://www.maths.ox.ac.uk/node/16025",
+      "speaker": "Andrew Krause",
+      "affiliation": "Oxford University",
+      "room": "C5",
+      "start": "2016-03-08T12:30:00Z",
+      "end": "2016-03-08T13:00:00Z"
+    },
+    {
+      "id": "13030",
+      "title": "TBA",
+      "url": "https://www.maths.ox.ac.uk/node/13030",
+      "speaker": "Alexander Vervuurt, Jochen Kursawe, Linus Schumacher",
+      "affiliation": "Mathematical Institute, Oxford",
+      "room": "C4",
+      "start": "2014-10-21T11:45:00Z",
+      "end": "2014-10-21T12:45:00Z"
+    },
+    {
+      "id": "11441",
+      "title": "Community structure in temporal multilayer networks",
+      "url": "https://www.maths.ox.ac.uk/node/11441",
+      "speaker": "Marya Bazzi",
+      "affiliation": "University of Oxford",
+      "room": "C4",
+      "start": "2014-06-17T12:15:00Z",
+      "end": "2014-06-17T13:00:00Z"
+    },
+    {
+      "id": "11406",
+      "title": "`When you say \"Jump!\"; I say \"How far ?\"': non-local jumping for stochastic lattice-based position jump simulations.",
+      "url": "https://www.maths.ox.ac.uk/node/11406",
+      "speaker": "Paul Taylor and Mark Gilbert",
+      "affiliation": "University of Oxford",
+      "room": "C4",
+      "start": "2014-06-03T12:00:00Z",
+      "end": "2014-06-03T13:00:00Z"
+    },
+    {
+      "id": "11346",
+      "title": "Making Exact Bayesian Inference on Cox Processes",
+      "url": "https://www.maths.ox.ac.uk/node/11346",
+      "speaker": "Yves-Lauren Kom Samo",
+      "affiliation": "University of Oxford",
+      "room": "C4",
+      "start": "2014-05-13T12:00:00Z",
+      "end": "2014-05-13T13:00:00Z"
+    },
+    {
+      "id": "11191",
+      "title": "Understanding the Dynamics of Embryonic Stem Cell Differentiation: A Combined Experimental and Modeling Approach",
+      "url": "https://www.maths.ox.ac.uk/node/11191",
+      "speaker": "Stanley Strawbridge",
+      "affiliation": "University of Cambridge",
+      "room": "C4",
+      "start": "2014-03-11T13:15:00Z",
+      "end": "2014-03-11T14:00:00Z"
+    },
+    {
+      "id": "11151",
+      "title": "Onset of menisci",
+      "url": "https://www.maths.ox.ac.uk/node/11151",
+      "speaker": "Doireann O'Kiely",
+      "affiliation": "OCIAM",
+      "room": "C4",
+      "start": "2014-02-25T13:15:00Z",
+      "end": "2014-02-25T14:00:00Z"
+    },
+    {
+      "id": "11125",
+      "title": "A non-parametric test for dependence based on the entropy rate",
+      "url": "https://www.maths.ox.ac.uk/node/11125",
+      "speaker": "Pedro Vitoria (Stochastic Analysis group) and Galen Sher (Economics)",
+      "affiliation": "Oxford University",
+      "room": "C2",
+      "start": "2014-02-18T13:15:00Z",
+      "end": "2014-02-18T14:00:00Z"
+    },
+    {
+      "id": "10916",
+      "title": "Modelling cell population growth in tissue engineering",
+      "url": "https://www.maths.ox.ac.uk/node/10916",
+      "speaker": "Lloyd Chapman",
+      "affiliation": "OCIAM Oxford",
+      "room": "C4",
+      "start": "2013-12-03T13:15:00Z",
+      "end": "2013-12-03T14:00:00Z"
+    },
+    {
+      "id": "10889",
+      "title": "Optimizing cross-flow-filtration efficacy using variable wall permeabilities (JH) and Volumetric image segmentation (IvG)",
+      "url": "https://www.maths.ox.ac.uk/node/10889",
+      "speaker": "James Herterich and Ingrid von Glehn",
+      "affiliation": "OCCAM, University of Oxford",
+      "room": "C4",
+      "start": "2013-11-19T13:15:00Z",
+      "end": "2013-11-19T14:00:00Z"
+    },
+    {
+      "id": "10819",
+      "title": "Introduction to Data Assimilation",
+      "url": "https://www.maths.ox.ac.uk/node/10819",
+      "speaker": "Partick Raanes",
+      "affiliation": "OCIAM, Oxford",
+      "room": "C4",
+      "start": "2013-11-05T13:15:00Z",
+      "end": "2013-11-05T14:00:00Z"
+    },
+    {
+      "id": "10752",
+      "title": "Singularly perturbed hyperbolic systems",
+      "url": "https://www.maths.ox.ac.uk/node/10752",
+      "speaker": "Stuart Thomson",
+      "affiliation": "OCIAM, Oxford",
+      "room": "C4",
+      "start": "2013-10-22T12:00:00Z",
+      "end": "2013-10-22T13:00:00Z"
+    },
+    {
+      "id": "10550",
+      "title": "Community detection in spatially embedded epidemic networks",
+      "url": "https://www.maths.ox.ac.uk/node/10550",
+      "speaker": "Marta Sarzynska",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2013-05-28T12:00:00Z",
+      "end": "2013-05-28T13:00:00Z"
+    },
+    {
+      "id": "10095",
+      "title": "The Mechanics of Multitubes",
+      "url": "https://www.maths.ox.ac.uk/node/10095",
+      "speaker": "Stephen O'Keeffe",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2012-11-27T13:15:00Z",
+      "end": "2012-11-27T13:45:00Z"
+    },
+    {
+      "id": "10071",
+      "title": "An introduction to mathematical finance : market completeness, arbitrage and backward stochastic differential equations",
+      "url": "https://www.maths.ox.ac.uk/node/10071",
+      "speaker": "Arnaud Lionnet",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2012-11-13T13:15:00Z",
+      "end": "2012-11-13T14:00:00Z"
+    },
+    {
+      "id": "10032",
+      "title": "Freezing of Foods: High-Pressure Shift Freezing / Growth and coarsening of ice crystals",
+      "url": "https://www.maths.ox.ac.uk/node/10032",
+      "speaker": "Nadia Smith",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-10-30T13:15:00Z",
+      "end": "2012-10-30T13:45:00Z"
+    },
+    {
+      "id": "9993",
+      "title": "Liquid snowflake formation in superheated ice",
+      "url": "https://www.maths.ox.ac.uk/node/9993",
+      "speaker": "Matt Hennessy",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-10-16T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9723",
+      "title": "Hermite functions and hypercollisions in the simulation of nuclear fusion plasmas",
+      "url": "https://www.maths.ox.ac.uk/node/9723",
+      "speaker": "Joseph Parker",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-06-12T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9731",
+      "title": "Lambda calculus and database queries",
+      "url": "https://www.maths.ox.ac.uk/node/9731",
+      "speaker": "Huy Vu",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-05-29T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9722",
+      "title": "Mathematical Modelling and Numerical Simulation of Tissue Engineered Bone",
+      "url": "https://www.maths.ox.ac.uk/node/9722",
+      "speaker": "Katie Leonard",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-05-15T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9721",
+      "title": "Overlapping Communities and Consensus Clustering",
+      "url": "https://www.maths.ox.ac.uk/node/9721",
+      "speaker": "Lucas Jeub",
+      "affiliation": "",
+      "room": "DH 1st floor SR",
+      "start": "2012-05-01T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9484",
+      "title": "Zonal jets on Jupiter as modelled by the quasigeostrophic limit of the thermal shallow water equation",
+      "url": "https://www.maths.ox.ac.uk/node/9484",
+      "speaker": "Emma Warneford",
+      "affiliation": "OCIAM",
+      "room": "DH 1st floor SR",
+      "start": "2012-03-06T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "9483",
+      "title": "Limit Order Books",
+      "url": "https://www.maths.ox.ac.uk/node/9483",
+      "speaker": "Martin Gould",
+      "affiliation": "OCIAM",
+      "room": "DH 1st floor SR",
+      "start": "2012-02-21T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "9487",
+      "title": "Singularity Methods in Stokes Flow: from Spheres to Sperm!",
+      "url": "https://www.maths.ox.ac.uk/node/9487",
+      "speaker": "Mark Curtis",
+      "affiliation": "OCCAM",
+      "room": "DH 1st floor SR",
+      "start": "2012-02-07T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "9482",
+      "title": "Quantile forecasting of wind power using variability indices",
+      "url": "https://www.maths.ox.ac.uk/node/9482",
+      "speaker": "Georgios Anastasiades",
+      "affiliation": "OCIAM",
+      "room": "DH 1st floor SR",
+      "start": "2012-01-24T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "9379",
+      "title": "Turbidity current dynamics - modelling sediment avalanches in the ocean",
+      "url": "https://www.maths.ox.ac.uk/node/9379",
+      "speaker": "Gemma Fay",
+      "affiliation": "Oxford Centre for Industrial and Applied Mathematics",
+      "room": "DH 3rd floor SR",
+      "start": "2011-11-29T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9340",
+      "title": "Does Mr. Darcy hold the key to your (new) heart? Porous tissue growth in a rotating nutrient-filled bioreactor.",
+      "url": "https://www.maths.ox.ac.uk/node/9340",
+      "speaker": "Mohit Dalwadi",
+      "affiliation": "Oxford Centre for Industrial and Applied Mathematics",
+      "room": "DH 1st floor SR",
+      "start": "2011-11-18T15:30:00Z",
+      "end": null
+    },
+    {
+      "id": "9283",
+      "title": "Non-uniqueness in a minimal model for cell motility",
+      "url": "https://www.maths.ox.ac.uk/node/9283",
+      "speaker": "Laura Gallimore",
+      "affiliation": "Oxford Centre for Collaborative Applied Mathematics",
+      "room": "DH 1st floor SR",
+      "start": "2011-11-01T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "9237",
+      "title": "'Non-Newtonian blood flow: a study of fluid transport through the capillaries of the heart'",
+      "url": "https://www.maths.ox.ac.uk/node/9237",
+      "speaker": "Amy Smith",
+      "affiliation": "Oxford Centre for Collaborative Applied Mathematics",
+      "room": "DH 1st floor SR",
+      "start": "2011-10-18T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8837",
+      "title": "Hydrodynamics and elastodynamics of swimming bacteria",
+      "url": "https://www.maths.ox.ac.uk/node/8837",
+      "speaker": "Henry Shum",
+      "affiliation": "Centre for Mathematical Biology",
+      "room": "DH 1st floor SR",
+      "start": "2011-06-21T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8836",
+      "title": "Modelling Viral Persistence in the Presence of Host Immunity in Chronic HTLV-I Infection",
+      "url": "https://www.maths.ox.ac.uk/node/8836",
+      "speaker": "Aarom Lim",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2011-06-07T12:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8524",
+      "title": "Biological Applicability of the Cellular Potts Model",
+      "url": "https://www.maths.ox.ac.uk/node/8524",
+      "speaker": "Sophie Kershaw",
+      "affiliation": "Comlab",
+      "room": "DH 1st floor SR",
+      "start": "2011-03-08T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8526",
+      "title": "Stochastic synchronization of neuronal populations with intrinsic and extrinsic noise",
+      "url": "https://www.maths.ox.ac.uk/node/8526",
+      "speaker": "Yi Ming Lai",
+      "affiliation": "OCCAM",
+      "room": "Gibson Grd floor SR",
+      "start": "2011-02-22T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8523",
+      "title": "Human sperm migration: Observation and Theory",
+      "url": "https://www.maths.ox.ac.uk/node/8523",
+      "speaker": "Hermes Gadelha",
+      "affiliation": "CMB",
+      "room": "DH 1st floor SR",
+      "start": "2011-01-25T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8162",
+      "title": "Modelling of the CSF Infusion Test",
+      "url": "https://www.maths.ox.ac.uk/node/8162",
+      "speaker": "Almut Eisentrager",
+      "affiliation": "Numerical Analysis Group",
+      "room": "Gibson Grd floor SR",
+      "start": "2010-11-30T13:15:00Z",
+      "end": "2010-11-30T13:45:00Z"
+    },
+    {
+      "id": "8194",
+      "title": "\"Exponential Asymptotics and Free-Surface Fluid Flow\"",
+      "url": "https://www.maths.ox.ac.uk/node/8194",
+      "speaker": "Chris Lustri",
+      "affiliation": "OCIAM",
+      "room": "DH 1st floor SR",
+      "start": "2010-11-16T13:15:00Z",
+      "end": null
+    },
+    {
+      "id": "8161",
+      "title": "Accurate telemonitoring of Parkinson's disease symptom severity using nonlinear signal processing and statistical machine learning",
+      "url": "https://www.maths.ox.ac.uk/node/8161",
+      "speaker": "Athanasios Tsanas",
+      "affiliation": "OCIAM and SAMP",
+      "room": "Gibson Grd floor SR",
+      "start": "2010-11-02T13:15:00Z",
+      "end": "2010-11-02T13:45:00Z"
+    },
+    {
+      "id": "8160",
+      "title": "Fat vs. thin threading approach on GPUs: application to stochastic simulation of chemical reactions",
+      "url": "https://www.maths.ox.ac.uk/node/8160",
+      "speaker": "Guido Klingbeil",
+      "affiliation": "Centre for Mathematical Biology",
+      "room": "DH 1st floor SR",
+      "start": "2010-10-19T12:15:00Z",
+      "end": "2010-10-19T12:45:00Z"
+    },
+    {
+      "id": "8086",
+      "title": "Uncovering the secrets of 'surface active Agents'",
+      "url": "https://www.maths.ox.ac.uk/node/8086",
+      "speaker": "Cara Morgan",
+      "affiliation": "Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2010-06-15T12:15:00Z",
+      "end": "2010-06-15T12:45:00Z"
+    },
+    {
+      "id": "8052",
+      "title": "Towards a Colonic Crypt Model with a Realistic, Deformable Geometry",
+      "url": "https://www.maths.ox.ac.uk/node/8052",
+      "speaker": "Sara-Jane Dunn",
+      "affiliation": "Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2010-06-01T12:15:00Z",
+      "end": "2010-06-01T12:45:00Z"
+    },
+    {
+      "id": "7974",
+      "title": "Parallel stochastic simulation using graphics processing units for the Systems Biology Toolbox for MATLAB",
+      "url": "https://www.maths.ox.ac.uk/node/7974",
+      "speaker": "Guido Klingbeil",
+      "affiliation": "Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2010-05-04T12:15:00Z",
+      "end": "2010-05-04T13:00:00Z"
+    },
+    {
+      "id": "7832",
+      "title": "Modelling cell migration in the mouse embryo",
+      "url": "https://www.maths.ox.ac.uk/node/7832",
+      "speaker": "Aaron Smith",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2010-03-09T13:15:00Z",
+      "end": "2010-03-09T13:45:00Z"
+    },
+    {
+      "id": "7758",
+      "title": "Accurate Density Forecasts based on Simple Nonlinear Models",
+      "url": "https://www.maths.ox.ac.uk/node/7758",
+      "speaker": "Siddharth Arora",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2010-02-23T13:15:00Z",
+      "end": "2010-02-23T13:45:00Z"
+    },
+    {
+      "id": "7685",
+      "title": "Submarine Hunting and Other Applications of the Mathematics of Tracking",
+      "url": "https://www.maths.ox.ac.uk/node/7685",
+      "speaker": "Trevor Wood",
+      "affiliation": "OCIAM Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2010-01-26T13:00:00Z",
+      "end": "2010-01-26T13:30:00Z"
+    },
+    {
+      "id": "7568",
+      "title": "Clustering recipes: new flavours of kernel and spectral methods",
+      "url": "https://www.maths.ox.ac.uk/node/7568",
+      "speaker": "Ornella Cominetti",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-12-04T16:30:00Z",
+      "end": "2009-12-04T17:00:00Z"
+    },
+    {
+      "id": "7567",
+      "title": "Modelling Overland Flow and Soil Erosion: Sediment Transportation",
+      "url": "https://www.maths.ox.ac.uk/node/7567",
+      "speaker": "Jason Zhong",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2009-11-20T16:30:00Z",
+      "end": "2009-11-20T17:00:00Z"
+    },
+    {
+      "id": "7569",
+      "title": "A comparison of stochastic and analytical models for cell migration",
+      "url": "https://www.maths.ox.ac.uk/node/7569",
+      "speaker": "Kit Yates",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2009-11-06T16:30:00Z",
+      "end": "2009-11-06T17:00:00Z"
+    },
+    {
+      "id": "7503",
+      "title": "Dislocation dynamics and instability",
+      "url": "https://www.maths.ox.ac.uk/node/7503",
+      "speaker": "Yichao Zhu",
+      "affiliation": "University of Oxford",
+      "room": "DH 1st floor SR",
+      "start": "2009-10-23T15:30:00Z",
+      "end": "2009-10-23T16:00:00Z"
+    },
+    {
+      "id": "7319",
+      "title": "Towards a framework for nonextensive nonlinear signal processing",
+      "url": "https://www.maths.ox.ac.uk/node/7319",
+      "speaker": "Shilan Mistry",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-06-05T15:30:00Z",
+      "end": "2009-06-05T16:00:00Z"
+    },
+    {
+      "id": "7272",
+      "title": "Modelling bipolar disorder",
+      "url": "https://www.maths.ox.ac.uk/node/7272",
+      "speaker": "Paul Moore",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-05-22T15:30:00Z",
+      "end": "2009-05-22T16:00:00Z"
+    },
+    {
+      "id": "7222",
+      "title": "Analysis of asymmetric stable droplets in a fish patterning model",
+      "url": "https://www.maths.ox.ac.uk/node/7222",
+      "speaker": "Thomas Woolley",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-05-08T15:30:00Z",
+      "end": "2009-05-08T16:00:00Z"
+    },
+    {
+      "id": "7118",
+      "title": "The Buckling of Capillaries within Tumours",
+      "url": "https://www.maths.ox.ac.uk/node/7118",
+      "speaker": "James MacLaurin",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-03-13T16:30:00Z",
+      "end": "2009-03-13T17:00:00Z"
+    },
+    {
+      "id": "7092",
+      "title": "Numerical treatment of Brownian Molecular Motors or \"I beat you till you talk!\"",
+      "url": "https://www.maths.ox.ac.uk/node/7092",
+      "speaker": "Lennart Hilbert",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-02-27T16:30:00Z",
+      "end": "2009-02-27T17:00:00Z"
+    },
+    {
+      "id": "7043",
+      "title": "The Hunt For Red October: Mathematical Modelling of Submarine Tracking",
+      "url": "https://www.maths.ox.ac.uk/node/7043",
+      "speaker": "Trevor Wood",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2009-02-13T16:30:00Z",
+      "end": "2009-02-13T17:00:00Z"
+    },
+    {
+      "id": "7009",
+      "title": "Modelling the Circulatory System: Evaluating Arterial Pressure and Cardiac Output",
+      "url": "https://www.maths.ox.ac.uk/node/7009",
+      "speaker": "Athanasios Tsanas",
+      "affiliation": "Oxford University",
+      "room": "DH 3rd floor SR",
+      "start": "2009-01-30T16:30:00Z",
+      "end": "2009-01-30T17:00:00Z"
+    },
+    {
+      "id": "6884",
+      "title": "Stochastic Resonance: Introduction, Applications and How It Could Have Explained Ice Ages",
+      "url": "https://www.maths.ox.ac.uk/node/6884",
+      "speaker": "Nathan Korda",
+      "affiliation": "University of Oxford",
+      "room": "DH 3rd floor SR",
+      "start": "2008-12-05T16:30:00Z",
+      "end": "2008-12-05T17:00:00Z"
+    },
+    {
+      "id": "6872",
+      "title": "Applied Stochastic PDEs for Modelling Oil Reservoirs",
+      "url": "https://www.maths.ox.ac.uk/node/6872",
+      "speaker": "Mohammed Aziz",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-11-21T16:30:00Z",
+      "end": "2008-11-21T17:00:00Z"
+    },
+    {
+      "id": "6521",
+      "title": "An Examination of Methods for Reverse-Engineering Regulatory Networks",
+      "url": "https://www.maths.ox.ac.uk/node/6521",
+      "speaker": "Patrick Dixon",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-06-13T15:30:00Z",
+      "end": "2008-06-13T16:00:00Z"
+    },
+    {
+      "id": "6524",
+      "title": "A Mathematical Model of Burglary",
+      "url": "https://www.maths.ox.ac.uk/node/6524",
+      "speaker": "Ashley Pitcher",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-05-30T15:30:00Z",
+      "end": "2008-05-30T16:00:00Z"
+    },
+    {
+      "id": "6523",
+      "title": "Ensemble Kalman Filter Techniques in Data Assimilation",
+      "url": "https://www.maths.ox.ac.uk/node/6523",
+      "speaker": "Xiaodong Luo",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-05-16T15:30:00Z",
+      "end": "2008-05-16T16:00:00Z"
+    },
+    {
+      "id": "6522",
+      "title": "Large Scale Atmosphere Dynamics",
+      "url": "https://www.maths.ox.ac.uk/node/6522",
+      "speaker": "Anthony Lock",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-05-02T15:30:00Z",
+      "end": "2008-05-02T16:00:00Z"
+    },
+    {
+      "id": "6362",
+      "title": "Unifying Resonant Solutions of KdV-Type Equations",
+      "url": "https://www.maths.ox.ac.uk/node/6362",
+      "speaker": "Philip Trinh",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-03-07T15:30:00Z",
+      "end": null
+    },
+    {
+      "id": "6361",
+      "title": "A Supply and Demand Based Model for Wholesale Electricity Prices",
+      "url": "https://www.maths.ox.ac.uk/node/6361",
+      "speaker": "Michael Coulon",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-02-22T15:30:00Z",
+      "end": null
+    },
+    {
+      "id": "6360",
+      "title": "Two-Layer Shallow Water Equations with Complete Coriolis Force and their Application to Equatorial Ocean Flow",
+      "url": "https://www.maths.ox.ac.uk/node/6360",
+      "speaker": "Andrew Stewart",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-02-08T15:30:00Z",
+      "end": null
+    },
+    {
+      "id": "6363",
+      "title": "Miscible Flow Through Porous Media",
+      "url": "https://www.maths.ox.ac.uk/node/6363",
+      "speaker": "Richard Booth",
+      "affiliation": "",
+      "room": "DH 3rd floor SR",
+      "start": "2008-01-25T15:30:00Z",
+      "end": null
+    }
+  ]
+}

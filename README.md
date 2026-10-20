@@ -3,10 +3,14 @@
 Data for the Seminars page of the [Oxford SIAM Student Chapter website](https://people.maths.ox.ac.uk/siamsc/seminars.html).
 
 Twice a day a GitHub Action reads the Junior Applied Mathematics Seminar listings on
-<https://www.maths.ox.ac.uk/events/list/650> and writes `seminars.json`, which GitHub Pages
-serves at <https://oxfordsiamsc.github.io/jams-seminars/seminars.json>, together with the
-calendar feed `jams.ics`. The website reads the JSON
-file in the browser to build the highlights and the list of upcoming talks.
+<https://www.maths.ox.ac.uk/events/list/650> (and all pages of past events) and writes,
+served by GitHub Pages at <https://oxfordsiamsc.github.io/jams-seminars/>:
+
+- `seminars.json`: upcoming talks, the 12 most recent ones and talks with slides; the
+  Seminars page uses it for the highlights and the upcoming list.
+- `archive.json`: every talk since 2008, for the archive page. Talks are never removed
+  from it, even if the department site drops them.
+- `jams.ics`: the calendar people can subscribe to.
 
 ## Adding slides
 
