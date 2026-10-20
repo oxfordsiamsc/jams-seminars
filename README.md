@@ -4,7 +4,8 @@ Data for the Seminars page of the [Oxford SIAM Student Chapter website](https://
 
 Twice a day a GitHub Action reads the Junior Applied Mathematics Seminar listings on
 <https://www.maths.ox.ac.uk/events/list/650> and writes `seminars.json`, which GitHub Pages
-serves at <https://fhrobat.github.io/jams-seminars/seminars.json>. The website reads that
+serves at <https://oxfordsiamsc.github.io/jams-seminars/seminars.json>, together with the
+calendar feed `jams.ics`. The website reads the JSON
 file in the browser to build the highlights and the list of upcoming talks.
 
 ## Adding slides
