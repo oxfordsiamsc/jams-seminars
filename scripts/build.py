@@ -1,0 +1,101 @@
+"""Build seminars.json for the Oxford SIAM Student Chapter website.
+
+Scrapes the Junior Applied Mathematics Seminar (series 650) listings on the
+Mathematical Institute website and merges in the slides listed in slides.json.
+"""
+import html
+import json
+import re
+import sys
+import urllib.request
+from datetime import datetime, timezone
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+BASE = "https://www.maths.ox.ac.uk"
+UPCOMING_URL = f"{BASE}/events/list/650"
+PAST_URL = f"{BASE}/events/past/650"
+LONDON = ZoneInfo("Europe/London")
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "siamsc-jams-feed/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8")
+
+
+def text(fragment):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", fragment))).strip()
+
+
+def field(block, name):
+    m = re.search(rf'field--name-field-{name}[^>]*>(.*?)</div>', block, re.S)
+    return text(m.group(1)) if m else ""
+
+
+def parse(page):
+    events = []
+    for block in page.split('<article class="event">')[1:]:
+        block = block.split("</article>")[0]
+        link = re.search(r'<h3><a href="([^"]+)"[^>]*>(.*?)</a></h3>', block, re.S)
+        date = re.search(r"\w{3}, (\d{2} \w{3} \d{4})", block)
+        if not (link and date):
+            continue
+        times = re.findall(r"\b(\d{1,2}:\d{2})\b", block.split("field-location")[0])
+        day = datetime.strptime(date.group(1), "%d %b %Y")
+
+        def at(hhmm):
+            h, m = map(int, hhmm.split(":"))
+            local = day.replace(hour=h, minute=m, tzinfo=LONDON)
+            return local.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+        start = at(times[0]) if times else at("12:30")
+        end = at(times[1]) if len(times) > 1 else None
+        href = link.group(1)
+        events.append({
+            "id": href.rstrip("/").split("/")[-1],
+            "title": text(link.group(2)),
+            "url": href if href.startswith("http") else BASE + href,
+            "speaker": field(block, "speaker"),
+            "affiliation": field(block, "university").strip("() "),
+            "room": field(block, "location"),
+            "start": start,
+            "end": end,
+        })
+    return events
+
+
+def main():
+    upcoming = parse(fetch(UPCOMING_URL))
+    past = parse(fetch(PAST_URL))
+    if not upcoming and not past:
+        sys.exit("No events parsed: the department page layout may have changed.")
+
+    slides = json.loads((ROOT / "slides.json").read_text(encoding="utf-8"))
+    by_id = {e["id"]: e for e in past + upcoming}
+    talks_with_slides = []
+    for s in slides:
+        event = dict(by_id.get(str(s.get("id")), {}))
+        event.update({k: v for k, v in s.items() if v})
+        if event.get("title"):
+            talks_with_slides.append(event)
+    for e in past + upcoming:
+        match = next((s for s in slides if str(s.get("id")) == e["id"]), None)
+        if match:
+            e["slides"] = match["slides"]
+
+    talks_with_slides.sort(key=lambda e: e.get("start", ""), reverse=True)
+    out = {
+        "source": UPCOMING_URL,
+        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "upcoming": sorted(upcoming, key=lambda e: e["start"]),
+        "past": sorted(past, key=lambda e: e["start"], reverse=True)[:12],
+        "slides": talks_with_slides,
+    }
+    (ROOT / "seminars.json").write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{len(out['upcoming'])} upcoming, {len(past)} past, {len(talks_with_slides)} with slides")
+
+
+if __name__ == "__main__":
+    main()

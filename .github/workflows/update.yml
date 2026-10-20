@@ -1,0 +1,48 @@
+name: Update seminars
+
+on:
+  schedule:
+    - cron: "17 5,17 * * *"   # twice a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [slides.json, scripts/**]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-seminars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build seminars.json
+        run: python scripts/build.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seminars.json
+          # Ignore the timestamp so we only commit when the seminars change.
+          if git diff --cached -U0 seminars.json | grep -E '^[+-] ' | grep -vq '"updated"'; then
+            git commit -m "Update seminars from maths.ox.ac.uk"
+          elif [ "$(git log -1 --format=%ct)" -lt "$(date -d '45 days ago' +%s)" ]; then
+            # GitHub pauses scheduled workflows after 60 days without commits.
+            git commit -m "Keep scheduled update alive"
+          else
+            echo "No changes."
+            exit 0
+          fi
+          git push

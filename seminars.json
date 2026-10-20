@@ -1,0 +1,172 @@
+{
+  "source": "https://www.maths.ox.ac.uk/events/list/650",
+  "updated": "2026-10-20T13:21:02Z",
+  "upcoming": [
+    {
+      "id": "83068",
+      "title": "Modelling the loss of cell cycle synchrony in embryo development",
+      "url": "https://www.maths.ox.ac.uk/node/83068",
+      "speaker": "Ben Stephens",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "C3",
+      "start": "2026-11-03T12:30:00Z",
+      "end": "2026-11-03T13:00:00Z"
+    },
+    {
+      "id": "82762",
+      "title": "Modelling brain clearance across scales",
+      "url": "https://www.maths.ox.ac.uk/node/82762",
+      "speaker": "Lucie Wintrová",
+      "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
+      "room": "C3",
+      "start": "2026-11-17T12:30:00Z",
+      "end": "2026-11-17T13:00:00Z"
+    },
+    {
+      "id": "83069",
+      "title": "Experimentally informed Modelling of Graphite Hysteresis for Lithium Ion Batteries",
+      "url": "https://www.maths.ox.ac.uk/node/83069",
+      "speaker": "Emmanuelle Hagopian",
+      "affiliation": "Department of Engineering Science, University of Oxford",
+      "room": "C3",
+      "start": "2026-12-01T12:30:00Z",
+      "end": "2026-12-01T13:00:00Z"
+    }
+  ],
+  "past": [
+    {
+      "id": "83067",
+      "title": "Solving a sequence of eigenvalue problems using snapshot and row subsampling",
+      "url": "https://www.maths.ox.ac.uk/node/83067",
+      "speaker": "Francesco Hrobat",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "L5",
+      "start": "2026-10-20T11:30:00Z",
+      "end": "2026-10-20T12:00:00Z",
+      "slides": "https://fhrobat.github.io/jams_talk"
+    },
+    {
+      "id": "81048",
+      "title": "A spatially adaptive hybrid model in reaction diffusion systems",
+      "url": "https://www.maths.ox.ac.uk/node/81048",
+      "speaker": "Charlie Cameron",
+      "affiliation": "University of Bath",
+      "room": "C2",
+      "start": "2026-06-16T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81079",
+      "title": "Beyond Snap-Fit: the Lifting Capabilities of a Partial Cylindrical Shell",
+      "url": "https://www.maths.ox.ac.uk/node/81079",
+      "speaker": "Grace Curtis",
+      "affiliation": "OCIAM, Oxford",
+      "room": "C2",
+      "start": "2026-06-02T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81064",
+      "title": "Fluid mechanics and irreversible thermodynamics of lithium-ion battery electrolytes",
+      "url": "https://www.maths.ox.ac.uk/node/81064",
+      "speaker": "Aaron Baier-Reinio",
+      "affiliation": "Numerical Analysis",
+      "room": "C2",
+      "start": "2026-05-19T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81182",
+      "title": "Try a Policy Internship and Apply Your Maths from Marine Mammals to Much More",
+      "url": "https://www.maths.ox.ac.uk/node/81182",
+      "speaker": "Jun Jewell",
+      "affiliation": "WCMB",
+      "room": "C2",
+      "start": "2026-05-12T13:30:00Z",
+      "end": null
+    },
+    {
+      "id": "81045",
+      "title": "A multiscale discrete-to-continuum framework for structured population models",
+      "url": "https://www.maths.ox.ac.uk/node/81045",
+      "speaker": "Eleonora Agostinelli",
+      "affiliation": "Wolfson Centre for Mathematical Biology",
+      "room": "C2",
+      "start": "2026-05-05T11:30:00Z",
+      "end": null
+    },
+    {
+      "id": "79960",
+      "title": "Quantifying Spatial Relationships in Labelled Data with Topology",
+      "url": "https://www.maths.ox.ac.uk/node/79960",
+      "speaker": "Abhinav Natarajan",
+      "affiliation": "OCIAM Oxford",
+      "room": "C4",
+      "start": "2026-03-10T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74655",
+      "title": "The flow-induced compaction of visco-elastic and visco-plastic soft porous media",
+      "url": "https://www.maths.ox.ac.uk/node/74655",
+      "speaker": "Emma Bouckley",
+      "affiliation": "Theoretical Geophysics, Cambridge",
+      "room": "C4",
+      "start": "2026-02-24T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "79958",
+      "title": "Models for subglacial floods during surface lake drainage events",
+      "url": "https://www.maths.ox.ac.uk/node/79958",
+      "speaker": "Harry Stuart",
+      "affiliation": "OCIAM Oxford",
+      "room": "C4",
+      "start": "2026-02-10T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74656",
+      "title": "Electrostatic regulation of biomolecular condensates.",
+      "url": "https://www.maths.ox.ac.uk/node/74656",
+      "speaker": "Jasper Knox",
+      "affiliation": "Dept of Engineering Maths University of Bristol",
+      "room": "C3",
+      "start": "2026-01-27T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74307",
+      "title": "Injection-driven Spreading of a Surfactant-laden Droplet on a Pre-wetted Substrate",
+      "url": "https://www.maths.ox.ac.uk/node/74307",
+      "speaker": "William Gillow",
+      "affiliation": "OCIAM",
+      "room": "C2",
+      "start": "2025-12-02T12:30:00Z",
+      "end": null
+    },
+    {
+      "id": "74306",
+      "title": "Adhesion-driven patterning in collective cell behaviour",
+      "url": "https://www.maths.ox.ac.uk/node/74306",
+      "speaker": "Carles Falco",
+      "affiliation": "WCMB",
+      "room": "C2",
+      "start": "2025-11-18T12:30:00Z",
+      "end": null
+    }
+  ],
+  "slides": [
+    {
+      "id": "83067",
+      "title": "Solving a sequence of eigenvalue problems using snapshot and row subsampling",
+      "url": "https://www.maths.ox.ac.uk/node/83067",
+      "speaker": "Francesco Hrobat",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "L5",
+      "start": "2026-10-20T11:30:00Z",
+      "end": "2026-10-20T12:00:00Z",
+      "slides": "https://fhrobat.github.io/jams_talk"
+    }
+  ]
+}
