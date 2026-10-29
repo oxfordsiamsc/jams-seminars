@@ -26,3 +26,16 @@ For a talk that is not on the department site you can also give `title`, `speake
 
 Pushing a change to `slides.json` triggers a rebuild. You can also run the
 **Update seminars** workflow by hand from the Actions tab.
+
+## Correcting a talk
+
+If something is wrong or out of date on the department site (room, time, title...),
+add an entry to `overrides.json` with the event id and the fields to replace:
+
+```json
+{ "id": "83068", "room": "L5", "note": "why, for the record" }
+```
+
+Overrides always win over the department data. Remove the entry once the department
+page is fixed. Times (`start`, `end`) are ISO in UTC, e.g. `2026-11-03T12:30:00Z`.
+

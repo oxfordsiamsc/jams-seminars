@@ -87,6 +87,13 @@ def main():
     if not upcoming and not past:
         sys.exit("No events parsed: the department page layout may have changed.")
 
+    # Manual corrections (e.g. a room change not yet on the department site) win.
+    overrides_path = ROOT / "overrides.json"
+    overrides = json.loads(overrides_path.read_text(encoding="utf-8")) if overrides_path.exists() else []
+    fixes = {str(o["id"]): {k: v for k, v in o.items() if k not in ("id", "note")} for o in overrides}
+    for e in upcoming + past:
+        e.update(fixes.get(e["id"], {}))
+
     # Keep every talk we have ever seen, even if the department later drops it.
     archive_path = ROOT / "archive.json"
     known = {}

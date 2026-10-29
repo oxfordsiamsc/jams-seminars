@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [slides.json, scripts/**]
+    paths: [slides.json, overrides.json, scripts/**]
 
 permissions:
   contents: write
