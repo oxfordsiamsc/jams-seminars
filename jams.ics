@@ -10,18 +10,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:jams-74306@siamsc.maths.ox.ac.uk
-DTSTAMP:20251118T123000Z
-DTSTART:20251118T123000Z
-DURATION:PT30M
-SUMMARY:JAMS: Adhesion-driven patterning in collective cell behaviour – C
- arles Falco
-DESCRIPTION:Speaker: Carles Falco (WCMB)\nDetails: https://www.maths.ox.ac.
- uk/node/74306
-LOCATION:C2\, Mathematical Institute\, University of Oxford
-URL:https://www.maths.ox.ac.uk/node/74306
-END:VEVENT
-BEGIN:VEVENT
 UID:jams-74307@siamsc.maths.ox.ac.uk
 DTSTAMP:20251202T123000Z
 DTSTART:20251202T123000Z

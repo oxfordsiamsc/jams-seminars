@@ -1,17 +1,7 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/list/650",
-  "updated": "2026-10-29T16:23:33Z",
+  "updated": "2026-11-03T22:20:22Z",
   "upcoming": [
-    {
-      "id": "83068",
-      "title": "Modelling the loss of cell cycle synchrony in embryo development",
-      "url": "https://www.maths.ox.ac.uk/node/83068",
-      "speaker": "Ben Stephens",
-      "affiliation": "Mathematical Institute, University of Oxford",
-      "room": "L5",
-      "start": "2026-11-03T12:30:00Z",
-      "end": "2026-11-03T13:00:00Z"
-    },
     {
       "id": "82762",
       "title": "Modelling brain clearance across scales",
@@ -34,6 +24,16 @@
     }
   ],
   "past": [
+    {
+      "id": "83068",
+      "title": "Modelling the loss of cell cycle synchrony in embryo development",
+      "url": "https://www.maths.ox.ac.uk/node/83068",
+      "speaker": "Ben Stephens",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "L5",
+      "start": "2026-11-03T12:30:00Z",
+      "end": "2026-11-03T13:00:00Z"
+    },
     {
       "id": "83067",
       "title": "Solving a sequence of eigenvalue problems using snapshot and row subsampling",
@@ -143,16 +143,6 @@
       "affiliation": "OCIAM",
       "room": "C2",
       "start": "2025-12-02T12:30:00Z",
-      "end": null
-    },
-    {
-      "id": "74306",
-      "title": "Adhesion-driven patterning in collective cell behaviour",
-      "url": "https://www.maths.ox.ac.uk/node/74306",
-      "speaker": "Carles Falco",
-      "affiliation": "WCMB",
-      "room": "C2",
-      "start": "2025-11-18T12:30:00Z",
       "end": null
     }
   ],
