@@ -10,18 +10,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:jams-74307@siamsc.maths.ox.ac.uk
-DTSTAMP:20251202T123000Z
-DTSTART:20251202T123000Z
-DURATION:PT30M
-SUMMARY:JAMS: Injection-driven Spreading of a Surfactant-laden Droplet on a
-  Pre-wetted Substrate – William Gillow
-DESCRIPTION:Speaker: William Gillow (OCIAM)\nDetails: https://www.maths.ox.
- ac.uk/node/74307
-LOCATION:C2\, Mathematical Institute\, University of Oxford
-URL:https://www.maths.ox.ac.uk/node/74307
-END:VEVENT
-BEGIN:VEVENT
 UID:jams-74656@siamsc.maths.ox.ac.uk
 DTSTAMP:20260127T123000Z
 DTSTART:20260127T123000Z

@@ -1,7 +1,17 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/past/650",
-  "updated": "2026-11-03T22:20:22Z",
+  "updated": "2026-11-17T14:31:33Z",
   "seminars": [
+    {
+      "id": "82762",
+      "title": "Modelling brain clearance across scales",
+      "url": "https://www.maths.ox.ac.uk/node/82762",
+      "speaker": "Lucie Wintrová",
+      "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
+      "room": "C3",
+      "start": "2026-11-17T12:30:00Z",
+      "end": "2026-11-17T13:00:00Z"
+    },
     {
       "id": "83068",
       "title": "Modelling the loss of cell cycle synchrony in embryo development",

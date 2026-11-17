@@ -1,17 +1,7 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/list/650",
-  "updated": "2026-11-03T22:20:22Z",
+  "updated": "2026-11-17T14:31:33Z",
   "upcoming": [
-    {
-      "id": "82762",
-      "title": "Modelling brain clearance across scales",
-      "url": "https://www.maths.ox.ac.uk/node/82762",
-      "speaker": "Lucie Wintrová",
-      "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
-      "room": "C3",
-      "start": "2026-11-17T12:30:00Z",
-      "end": "2026-11-17T13:00:00Z"
-    },
     {
       "id": "83069",
       "title": "Experimentally informed Modelling of Graphite Hysteresis for Lithium Ion Batteries",
@@ -24,6 +14,16 @@
     }
   ],
   "past": [
+    {
+      "id": "82762",
+      "title": "Modelling brain clearance across scales",
+      "url": "https://www.maths.ox.ac.uk/node/82762",
+      "speaker": "Lucie Wintrová",
+      "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
+      "room": "C3",
+      "start": "2026-11-17T12:30:00Z",
+      "end": "2026-11-17T13:00:00Z"
+    },
     {
       "id": "83068",
       "title": "Modelling the loss of cell cycle synchrony in embryo development",
@@ -133,16 +133,6 @@
       "affiliation": "Dept of Engineering Maths University of Bristol",
       "room": "C3",
       "start": "2026-01-27T12:30:00Z",
-      "end": null
-    },
-    {
-      "id": "74307",
-      "title": "Injection-driven Spreading of a Surfactant-laden Droplet on a Pre-wetted Substrate",
-      "url": "https://www.maths.ox.ac.uk/node/74307",
-      "speaker": "William Gillow",
-      "affiliation": "OCIAM",
-      "room": "C2",
-      "start": "2025-12-02T12:30:00Z",
       "end": null
     }
   ],
