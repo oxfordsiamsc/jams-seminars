@@ -1,6 +1,6 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/list/650",
-  "updated": "2026-11-17T14:31:33Z",
+  "updated": "2026-11-18T17:27:32Z",
   "upcoming": [
     {
       "id": "83069",
@@ -32,7 +32,8 @@
       "affiliation": "Mathematical Institute, University of Oxford",
       "room": "L5",
       "start": "2026-11-03T12:30:00Z",
-      "end": "2026-11-03T13:00:00Z"
+      "end": "2026-11-03T13:00:00Z",
+      "slides": "https://oxfordsiamsc.github.io/jams-seminars/slides/stephens_jams_2026-11-03.pptx"
     },
     {
       "id": "83067",
@@ -137,6 +138,17 @@
     }
   ],
   "slides": [
+    {
+      "id": "83068",
+      "title": "Modelling the loss of cell cycle synchrony in embryo development",
+      "url": "https://www.maths.ox.ac.uk/node/83068",
+      "speaker": "Ben Stephens",
+      "affiliation": "Mathematical Institute, University of Oxford",
+      "room": "L5",
+      "start": "2026-11-03T12:30:00Z",
+      "end": "2026-11-03T13:00:00Z",
+      "slides": "https://oxfordsiamsc.github.io/jams-seminars/slides/stephens_jams_2026-11-03.pptx"
+    },
     {
       "id": "83067",
       "title": "Solving a sequence of eigenvalue problems using snapshot and row subsampling",

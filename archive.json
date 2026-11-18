@@ -1,6 +1,6 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/past/650",
-  "updated": "2026-11-17T14:31:33Z",
+  "updated": "2026-11-18T17:27:32Z",
   "seminars": [
     {
       "id": "82762",
@@ -20,7 +20,8 @@
       "affiliation": "Mathematical Institute, University of Oxford",
       "room": "L5",
       "start": "2026-11-03T12:30:00Z",
-      "end": "2026-11-03T13:00:00Z"
+      "end": "2026-11-03T13:00:00Z",
+      "slides": "https://oxfordsiamsc.github.io/jams-seminars/slides/stephens_jams_2026-11-03.pptx"
     },
     {
       "id": "83067",
