@@ -1,6 +1,6 @@
 {
   "source": "https://www.maths.ox.ac.uk/events/list/650",
-  "updated": "2026-11-18T17:27:32Z",
+  "updated": "2026-11-20T10:29:04Z",
   "upcoming": [
     {
       "id": "83069",
@@ -22,7 +22,8 @@
       "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
       "room": "C3",
       "start": "2026-11-17T12:30:00Z",
-      "end": "2026-11-17T13:00:00Z"
+      "end": "2026-11-17T13:00:00Z",
+      "slides": "https://people.maths.ox.ac.uk/siamsc/assets/slides/2026-11-17-wintrova-brain-clearance.pdf"
     },
     {
       "id": "83068",
@@ -32,8 +33,7 @@
       "affiliation": "Mathematical Institute, University of Oxford",
       "room": "L5",
       "start": "2026-11-03T12:30:00Z",
-      "end": "2026-11-03T13:00:00Z",
-      "slides": "https://oxfordsiamsc.github.io/jams-seminars/slides/stephens_jams_2026-11-03.pptx"
+      "end": "2026-11-03T13:00:00Z"
     },
     {
       "id": "83067",
@@ -139,15 +139,15 @@
   ],
   "slides": [
     {
-      "id": "83068",
-      "title": "Modelling the loss of cell cycle synchrony in embryo development",
-      "url": "https://www.maths.ox.ac.uk/node/83068",
-      "speaker": "Ben Stephens",
-      "affiliation": "Mathematical Institute, University of Oxford",
-      "room": "L5",
-      "start": "2026-11-03T12:30:00Z",
-      "end": "2026-11-03T13:00:00Z",
-      "slides": "https://oxfordsiamsc.github.io/jams-seminars/slides/stephens_jams_2026-11-03.pptx"
+      "id": "82762",
+      "title": "Modelling brain clearance across scales",
+      "url": "https://www.maths.ox.ac.uk/node/82762",
+      "speaker": "Lucie Wintrová",
+      "affiliation": "Faculty of Mathematics and Physics Charles University Prague",
+      "room": "C3",
+      "start": "2026-11-17T12:30:00Z",
+      "end": "2026-11-17T13:00:00Z",
+      "slides": "https://people.maths.ox.ac.uk/siamsc/assets/slides/2026-11-17-wintrova-brain-clearance.pdf"
     },
     {
       "id": "83067",
